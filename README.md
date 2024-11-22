@@ -1,4 +1,4 @@
-## Modern Desk
+## IBS ERP CUSTOM UI
 
 A modern UI for IBS ERP
 
