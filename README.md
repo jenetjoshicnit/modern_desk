@@ -7,7 +7,7 @@ use the following commands to install this app
 First get it from this repo
 
 ```
-bench get-app https://github.com/jenetjoshicnit/custom-ui-erp
+bench get-app https://github.com/jenetjoshicnit/modern_desk
 ```
 add to your site
 ```
